@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated decks
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
